@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<JailConfig>
+    <FreezeMovement>true</FreezeMovement>
+
+    <ImpoundFee>250</ImpoundFee>
+
+    <JailPosition x="0" y="0" z="0" />
+    <JailYaw>0</JailYaw>
+
+    <ReleasePosition x="10" y="0" z="10" />
+    <ReleaseYaw>180</ReleaseYaw>
+
+    <ImpoundLocation x="20" y="0" z="20" />
+    <ImpoundYaw>0</ImpoundYaw>
+</JailConfig>
