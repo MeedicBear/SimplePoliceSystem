@@ -55,18 +55,7 @@ Each job can define:
 - Police can impound vehicles  
 - Players can reclaim vehicles for a fee  
 - Configurable impound location  
-- Supports all Rocket economy providers  
-
-### 🧱 Modular Architecture
-Clean folder structure:
-
-```
-SimplePoliceJail/
-    Commands/
-    JobSystem/
-    Config/
-    Properties/
-```
+- Supports all Rocket economy providers
 
 ---
 
